@@ -1,5 +1,8 @@
 # MONTE CARLO CONTROL ALGORITHM
 
+### DEVELOPED BY: SREEVALSAN V
+### REGISTER NO: 212223240158
+
 ## AIM
 The aim is to use Monte Carlo Control in a specific environment to learn an optimal policy, estimate state-action values, iteratively improve the policy, and optimize decision-making through a functional reinforcement learning algorithm.
 
